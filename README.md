@@ -52,4 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/chshivakalyan/Leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/chshivakalyan/Leetcode-practice/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/chshivakalyan/Leetcode-practice/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/chshivakalyan/Leetcode-practice/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/chshivakalyan/Leetcode-practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
