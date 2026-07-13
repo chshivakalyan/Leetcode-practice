@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/chshivakalyan/Leetcode-practice/tree/master/0229-majority-element-ii) |
+| [0567-permutation-in-string](https://github.com/chshivakalyan/Leetcode-practice/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -68,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/chshivakalyan/Leetcode-practice/tree/master/0100-same-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/chshivakalyan/Leetcode-practice/tree/master/0567-permutation-in-string) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/chshivakalyan/Leetcode-practice/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/chshivakalyan/Leetcode-practice/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
